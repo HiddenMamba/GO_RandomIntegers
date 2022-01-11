@@ -1,0 +1,4 @@
+To run:
+docker run --publish 8080:8080 docker-nobl9
+Open on browser
+http://localhost:8080/random/mean?requests=5&length=10
